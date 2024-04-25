@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <encoding>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>BOILBAGS</Product Type>
+         <Title>BOILBAG 1</Title>
+         <Price>650 ZAR</Price>
+         <Description>6 Prawns 6 Mussels 6 Calamari 2 Lobster Tails Served with sweetcorn, baby potatoes and cocktail sausage or boiled eggs.</Description>
+     </encoding>
+     <1>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>BOILBAGS</Product Type>
+         <Title>BOILBAG 2</Title>
+         <Price>950 ZAR</Price>
+         <Description>10 Prawns 10 Mussels 10 Calamari 2 Lobster Tails or Half Crab Portion Served with sweetcorn, baby potatoes and cocktail sausage or boiled eggs.</Description>
+     </1>
+     <2>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>BOILBAGS</Product Type>
+         <Title>BOILBAG FEAST</Title>
+         <Price>1050 ZAR</Price>
+         <Description>14 Prawns 14 Mussels 14 Calamari 2 Lobster Tails and Full Crab Portion Served with sweetcorn, baby potatoes and cocktail sausage or boiled eggs.</Description>
+     </2>
+     <3>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>BOILBAGS</Product Type>
+         <Title>BOILBAG FAMILY FEAST</Title>
+         <Price>1650 ZAR</Price>
+         <Description>18 Prawns 18 Mussels 18 Calamari 2 Lobster Tails and 2 Full Crab Portion Served with sweetcorn, baby potatoes and cocktail sausage or boiled eggs.</Description>
+     </3>
+     <4>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>BABY PLATTERS</Product Type>
+         <Title>BABY DECK 1</Title>
+         <Price>380 ZAR</Price>
+         <Description>6 Prawns 6 Mussels 6 Calamari Served with sweetcorn, baby potatoes and cocktail sausage or boiled eggs.</Description>
+     </4>
+     <5>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>BABY PLATTERS</Product Type>
+         <Title>DECKMEUP</Title>
+         <Price>500 ZAR</Price>
+         <Description>6 Prawns 6 Mussels 6 Calamari, Lobster Tail or Crab Portion Served with sweetcorn, baby potatoes and cocktail sausage or boiled eggs.</Description>
+     </5>
+     <6>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>BABY PLATTERS</Product Type>
+         <Title>DECKMEFEAST</Title>
+         <Price>600 ZAR</Price>
+         <Description>6 Prawns 6 Mussels 6 Calamari, Lobster Tail and Crab Portion Served with sweetcorn, baby potatoes and cocktail sausage or boiled eggs.</Description>
+     </6>
+     <7>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>BIG PLATTERS</Product Type>
+         <Title>BIG DECK 1</Title>
+         <Price>700 ZAR</Price>
+         <Description>12 Prawns 12 Mussels 12 Calamari Served with sweetcorn, baby potatoes and cocktail sausage or boiled eggs.</Description>
+     </7>
+     <8>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>BIG PLATTERS</Product Type>
+         <Title>DECKME2</Title>
+         <Price>850 ZAR</Price>
+         <Description>12 Prawns 12 Mussels 12 Calamari, Lobster Tail or Crab Portion Served with sweetcorn, baby potatoes and cocktail sausage or boiled eggs.</Description>
+     </8>
+     <9>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>BIG PLATTERS</Product Type>
+         <Title>DECKME2TANTALIZE</Title>
+         <Price>1150 ZAR</Price>
+         <Description>12 Prawns 12 Mussels 12 Calamari, Lobster Tail and Crab Portion Served with sweetcorn, baby potatoes and cocktail sausage or boiled eggs.</Description>
+     </9>
+     <10>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>LARGE PLATTERS</Product Type>
+         <Title>MASSIVE DECK</Title>
+         <Price>1700 ZAR</Price>
+         <Description>20 Prawns 20 Mussels 20 Calamari, Squid Heads, 1 Whole Lobster & 4 Lobster Tails Served with sweetcorn, baby potatoes and cocktail sausage or boiled eggs. Includes sauce of your choice, Lemon & Herb, Spicy Cajun (Signature Sauce) or Peri - Peri.</Description>
+     </10>
+     <11>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>LARGE PLATTERS</Product Type>
+         <Title>ULTIMATE DECK</Title>
+         <Price>2200 ZAR</Price>
+         <Description>24 Prawns 24 Mussels 24 Calamari, Squid Heads, 2 Whole Lobster & 6 Lobster Tails & 1 Full Crab Portion Served with sweetcorn, baby potatoes and cocktail sausage or boiled eggs, Includes sauce of your choice, Lemon & Herb, Spicy Cajun (Signature Sauce) or Peri - Peri.</Description>
+     </11>
+     <12>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>LARGE PLATTERS</Product Type>
+         <Title>OCEANS FLOOR DELIGHT</Title>
+         <Price>2800 ZAR</Price>
+         <Description>30 Prawns 30 Mussels 30 Calamari, Squid Heads, 4 Whole Lobster and 6 Lobster Tails and 2 Full Crab Portion Served with sweetcorn, baby potatoes and cocktail sausage and boiled eggs.Includes sauce of your choice, Lemon & Herb, Spicy Cajun (Signature Sauce) or Peri - Peri.</Description>
+     </12>
+     <13>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>CRAB FOR ALL</Product Type>
+         <Title>BABY CRAB BOIL BAG</Title>
+         <Price>520 ZAR</Price>
+         <Description>1 Full Crabs, 2 Lobster Tails, 6 Mussels or 3 Jumbo Prawns, Shrimp Served with sweetcorn, boiled eggs and cocktail sausage.</Description>
+     </13>
+     <14>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>CRAB FOR ALL</Product Type>
+         <Title>SPICEMEUP</Title>
+         <Price>600 ZAR</Price>
+         <Description>1 Full Orange Crab, 1 Full Blue Crab, 4 Lobster Tails Served with sweetcorn and baby potatoes.</Description>
+     </14>
+     <15>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>CRAB FOR ALL</Product Type>
+         <Title>CRABBY BOIL BAG</Title>
+         <Price>850 ZAR</Price>
+         <Description>2 Full Crabs, 4 Lobster Tails, 10 Mussels or 4 Prawns, Shrimp Served with sweetcorn, boiled eggs and cocktail sausage.</Description>
+     </15>
+     <16>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>CRAB FOR ALL</Product Type>
+         <Title>CRAB IN HOT SAUCY GRAVY</Title>
+         <Price>330 ZAR</Price>
+         <Description>1 Full Crab Portion served in a Chakalaka Gravy.</Description>
+     </16>
+     <17>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>CRAB FOR ALL</Product Type>
+         <Title>WOMENS CRAB BOIL</Title>
+         <Price>600 ZAR</Price>
+         <Description>1 Full Orange Crab, 4 Lobster Tails, Shrimp, 6 Mussels Served with sweetcorn and baby potatoes, Add 6 Prawns for R200</Description>
+     </17>
+     <18>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>CRAB FOR ALL</Product Type>
+         <Title>CRAB BED</Title>
+         <Price>480 ZAR</Price>
+         <Description>6 Prawns, 2 Lobster Tails, 6 Calamari, Shrimp Served on a bed of rice.</Description>
+     </18>
+     <19>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>CRAB FOR ALL</Product Type>
+         <Title>CRAB CHAKALAKA POT</Title>
+         <Price>350 ZAR</Price>
+         <Description>1 Full Crab Portion with mussels drenched in a Hot Chakalaka Gravy Sauce.</Description>
+     </19>
+     <20>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>CRAB FOR ALL</Product Type>
+         <Title>TANTALIZING HOT POT</Title>
+         <Price>450 ZAR</Price>
+         <Description>1 Full Blue Crab Portion, 6 Mussels, 1 Lobster Tail, 4 Prawns or Shrimp Served with baby potatoes.</Description>
+     </20>
+     <21>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>SIGNATURE DISHES</Product Type>
+         <Title>LOBSTER TAVERN</Title>
+         <Price>330 ZAR</Price>
+         <Description>Crab, 4 Prawns, Shrimp & 1 Lobster Tail, Served with sweetcorn and baby potatoes,</Description>
+     </21>
+     <22>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>SIGNATURE DISHES</Product Type>
+         <Title>TAVERN LOBSTER</Title>
+         <Price>550 ZAR</Price>
+         <Description>Crab, 6 Prawns, Shrimp, 2 Lobster Tails, 6 Mussels Served with sweetcorn and baby potatoes.</Description>
+     </22>
+     <23>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>SPECIALTY DISHES</Product Type>
+         <Title>LOBSTER ROLLS</Title>
+         <Price>750 ZAR</Price>
+         <Description>4 Lobster Tails, Diced Up Salad (Tomatoes, Cucumber & Red Onion) on each roll. Sweet Chili Island Sauce. Grilled or Normal?</Description>
+     </23>
+     <24>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>SPECIALTY DISHES</Product Type>
+         <Title>CRAB & TAIL LOVE SPECIAL</Title>
+         <Price>450 ZAR</Price>
+         <Description>1 Full Crab Portion, 3 Lobster Tails, 6 Mussels, Shrimp Served with sweetcorn and boiled eggs.</Description>
+     </24>
+     <25>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>SPECIALTY DISHES</Product Type>
+         <Title>PRAWN & LOBSTER DELIGHT</Title>
+         <Price>230 ZAR</Price>
+         <Description>3 Prawns, 4 Mussels or 4 Calamari, 1 Lobster Tail Served with sweetcorn and baby potatoes.</Description>
+     </25>
+     <26>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>SPECIALTY DISHES</Product Type>
+         <Title>LOVERS ROCK BOILBAG</Title>
+         <Price>1450 ZAR</Price>
+         <Description>14 Prawns, 4 Lobster Tails & 1 Full Crab Portion Served with sweetcorn, cocktail sausage and boiled eggs. Includes Mac & Cheese. Half Lobster & Shrimp Pasta.</Description>
+     </26>
+     <27>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>SPECIALTY DISHES</Product Type>
+         <Title>SEAFOOD BOIL CRAB COMBO</Title>
+         <Price>1450 ZAR</Price>
+         <Description>14 Prawns 14 Mussels 14 Calamari 2 Lobster Tails and Full Crab Portion Served with sweetcorn, baby potatoes and cocktail sausage or boiled eggs.</Description>
+     </27>
+     <28>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>SPECIALTY DISHES</Product Type>
+         <Title>SPOILMYLADY FEAST</Title>
+         <Price>580 ZAR</Price>
+         <Description>4 Prawns, 2 Lobster Tails Half Crab Portion, musells and calamari, Shrimp, Squid heads served on a bed of rice with sweetcorn and baby potatoes.</Description>
+     </28>
+     <29>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>SPECIALTY DISHES</Product Type>
+         <Title>THE GREAT ONE</Title>
+         <Price>400 ZAR</Price>
+         <Description>3 Lobster Tails, 6 Prawns, Mussels or Calamari Served with sweetcorn and baby potatoes.</Description>
+     </29>
+     <30>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>SPECIALTY DISHES</Product Type>
+         <Title>CRAB THIEVE</Title>
+         <Price>500 ZAR</Price>
+         <Description>1 Full Crab Portion, 6 Prawns, 2 Lobster Tails Served with sweetcorn, baby potatoes and cocktail sausage.</Description>
+     </30>
+     <31>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>MONEY MISERS</Product Type>
+         <Title>PRAWN & LOBSTER DELIGHT</Title>
+         <Price>230 ZAR</Price>
+         <Description>3 Prawns, 4 Mussels or 4 Calamari, 1 Lobster Tail Served with sweetcorn and baby potatoes.</Description>
+     </31>
+     <32>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>MONEY MISERS</Product Type>
+         <Title>CRAB & PRAWN DELIGHT</Title>
+         <Price>250 ZAR</Price>
+         <Description>3 Prawns, Half a Crab Portion, 1 Lobster Tail Served with sweetcorn and baby potatoes.</Description>
+     </32>
+     <33>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>MONEY MISERS</Product Type>
+         <Title>CRAB & PRAWN INDULGE</Title>
+         <Price>320 ZAR</Price>
+         <Description>3 Prawns, Half a Crab Portion, Shrimp, 1 Lobster Tail Served with sweetcorn and baby potatoes.</Description>
+     </33>
+     <34>
+         <Brand>Lobster Tavern</Brand>
+         <Google_Product_Category>Food</Google_Product_Category>
+         <Product Type>SEAFOOD>MONEY MISERS</Product Type>
+         <Title>CRAB & PRAWN AFFAIR</Title>
+         <Price>350 ZAR</Price>
+         <Description>4 Prawns, Half a Crab Portion, Shrimp, 2 Lobster Tails Served with sweetcorn and baby potatoes.</Description>
+     </34>
+ </root>
